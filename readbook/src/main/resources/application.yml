@@ -1,0 +1,12 @@
+
+# Context Root
+server:
+  servlet:
+    context-path: /readbook
+
+
+
+logging:
+  level:
+    root: info
+    com.read.book: debug
