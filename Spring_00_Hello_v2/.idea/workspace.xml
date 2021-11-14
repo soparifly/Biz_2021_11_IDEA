@@ -10,13 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0c07a45-57d8-421c-8b5e-b1e7de3bd755" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Spring_01_Student/src/main/java/com/kimbyulook/student/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_01_Student/src/main/java/com/kimbyulook/student/model/StudentVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_01_Student/src/main/java/com/kimbyulook/student/repository/StDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_01_Student/src/main/java/com/kimbyulook/student/repository/StDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_01_Student/src/main/java/com/kimbyulook/student/service/StService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring_01_Student/src/main/java/com/kimbyulook/student/service/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring_01_Student/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_01_Student/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_04_SecurityPA/src/main/java/com/csy/sec/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_04_SecurityPA/src/main/java/com/csy/sec/repository/MemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_04_SecurityPA/src/main/java/com/csy/sec/service/GenericService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_04_SecurityPA/src/main/java/com/csy/sec/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_04_SecurityPA/src/main/java/com/csy/sec/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_04_SecurityPA/src/main/java/com/csy/sec/service/impl/MemberServiceImplV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_04_SecurityPA/src/main/webapp/WEB-INF/spring/appServlet/jpa-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_04_SecurityPA/src/main/webapp/WEB-INF/spring/security-db-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_04_SecurityPA/src/main/webapp/WEB-INF/views/member/join.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +170,7 @@
       <updated>1635821102940</updated>
       <workItem from="1635821104228" duration="2703000" />
       <workItem from="1636602902420" duration="5000" />
+      <workItem from="1636780971959" duration="2000" />
     </task>
     <servers />
   </component>
